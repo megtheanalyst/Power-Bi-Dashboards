@@ -3,7 +3,7 @@
 Power BI Dashboards (PDF Format)
 This repository contains a collection of Power BI dashboards in PDF format, designed to provide visualizations and insights into various data sets. The dashboards have been exported to PDF for easy viewing and sharing, allowing you to analyze and present data in a user-friendly format without requiring Power BI Desktop or the Power BI service.
 
-Table of Contents
+TABLE OF CONTENTS
 Getting Started
 Features
 Usage
